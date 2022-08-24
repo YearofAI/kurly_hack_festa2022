@@ -31,7 +31,7 @@
 |데이터 전처리|문제에 따라서 처리해야할 방향 설정 |User와 상품의 데이터를 바탕으로 추천 시스템 알고리즘 적용|
 |Feature Engineering|모델 선정 혹은 평가 지표에 큰 영향|유사 상품을 많이 사는 user 혹은 제품을 많이 사는 user를 바탕으로 user-based의 추천 시스템 구축|
 |연관 데이터 추가|추가 수집 |Intersection data, user data, item data를 집산하기 위해서 수집 |
-|알고리즘 선택| 기본적, 현대적|Word2Vec, Efficinet, |   
+|알고리즘 선택| 기본적, 현대적|Word2Vec, Efficinet, Customer Segmentation by PCA, 연관 규칙을 바탕 유사 상품 추천 |   
 |모델 학습|모델을 통해서 얻고 싶은 것 |기존 데이터의 양이 적어서 캐글 Instacart 데이터를 추가하여 물품 유통 파악 및 user의 구매 건수 파악|
 |모델 평가|확률 | NDCG 정확도를 3%향상|
 |모델 성능 향상|성능 지표, 하이퍼파라미터, 데이터 리터러시 재수정 |하이퍼파라미터 조정 및 추가, 3%의 NDCG향상  |
