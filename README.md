@@ -3,6 +3,12 @@
 ![image](https://user-images.githubusercontent.com/86671456/186306402-23d2a2df-ebd8-4ddc-bda1-e75b649a3b87.png)
 
 
+<br>
+## Tech
+
+![image](https://user-images.githubusercontent.com/86671456/186363278-d400b6df-91dd-45f3-9435-aceb7e043c98.png)
+
+
 ## Abstract
 
 | 분석명 |목적|결과|
