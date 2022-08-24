@@ -11,7 +11,7 @@
 
 |  소스 데이터 |     데이터 입수 난이도    |      분석방법     |데이터 출처|
 |:------------------:| -----|:---------------:|-----------|
-|CSV,Json,XML|중 |EDA, Visualization, Regression   |데이콘, 국토연구원, 한살림, 제주도허브데이터|
+|CSV,Json|중 |EDA, Visualization, Regression   |Kaggle, crawled Kurly data |
 |  분석 적용 난이도  |     분석적용 난이도 사유    |      분석주기     | 분석결과 검증 Owner|
 |상| 실제 물류허브 공장의 위치를 예측하여 적절한 위치 찾기|Daily  | 실습코치님, 이재원강사님, 고려대학교 강필성 교수님의 대학원생분들 |
 
